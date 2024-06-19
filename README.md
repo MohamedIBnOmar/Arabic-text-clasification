@@ -1,5 +1,3 @@
 # Arabic-text-clasification
-Working on an Arabic text classification project on using machine learning, with a focus on support vector machines (SVM). The preprocessing involved several key steps: removing punctuation, URLs, and English letters; normalizing the Arabic text; eliminating repeating characters; and stemming words. Additionally, tokenization and stopword removal were applied to clean up the data. Features were then extracted using TF-IDF vectorization. This processed data was used to train the SVM model, significantly improving the accuracy of Arabic text categorization.
-
-
+Developed an Arabic text classification project utilizing machine learning, with an emphasis on support vector machines (SVM). Preprocessing steps included punctuation removal, URL and English letter elimination, Arabic text normalization, removal of repeating characters, word stemming, tokenization, and stopword removal. Employed TF-IDF vectorization for feature extraction. The SVM model trained on this processed data showed a significant improvement in categorizing Arabic texts, underscoring the effectiveness of tailored preprocessing in natural language processing (NLP) for Arabic. The dataset included diverse modern Arabic texts from newspaper articles.
 dataset : https://www.kaggle.com/datasets/saurabhshahane/arabic-classification
